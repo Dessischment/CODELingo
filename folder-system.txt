@@ -1,0 +1,22 @@
+> Folder
+< Files
+
+
+> aassets
+    > css
+        index.css
+        menu.css
+        style.css
+    > javascript
+        > javascript
+            < nameSwitch.js
+            < menu.js
+            < script.js
+        > json
+            < lessons.json
+    > images
+        > icon
+            die ganzen Bilder halt
+        > dude
+            < happynormal.png
+index.html
