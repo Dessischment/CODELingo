@@ -1,0 +1,67 @@
+article {
+    margin-left: 17%;
+}
+
+article a {
+    text-decoration: none;
+}
+
+.welcome {
+    font-size: 25px;
+    font-weight: bold;  
+    position: relative;
+}
+
+.welcome span {
+    color: rgb(71, 71, 71);
+}
+
+.color {
+    display: grid;
+    padding: 30px 20px 50px 20px;
+    border-radius: 3em 1em;
+    margin-left: 70%;
+    background: #0dfb16;
+
+    color: rgb(15, 88, 25);
+    font-size: 24px;
+    transition: 1s ease all;
+}
+.color:hover {
+    border-radius: 1em 3em;
+}
+
+.color span {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 50px;
+    transition: 0.7s ease all;
+}
+
+.color span:hover {
+    margin-top: 30px;
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: white;
+    transition: 0.7s ease all;
+}
+
+.what-is-this {
+    display: flex;
+    padding-bottom: 400px;
+}
+.box {
+    padding: 30px;
+    border-radius: 20px;
+    background: rgba(190, 184, 184, 0.4);
+    border: solid 0.5px rgba(128, 128, 128, 0.582);
+}
+
+@media screen and (max-width: 800px) {
+    .color {
+        display: none;
+    }
+}
