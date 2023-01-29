@@ -1,5 +1,0 @@
-class Unit {
-    constructor (unit) {
-        
-    }
-}
