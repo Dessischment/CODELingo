@@ -16,7 +16,15 @@
             < lessons.json
     > images
         > icon
-            die ganzen Bilder halt
+            book.png
+            logo-title.png
+            settings.png
+            question.png
+            languge.png
+            teachings.png
         > dude
             < happynormal.png
 index.html
+
+
+NOTE: wrote aassets wrong, it was a mistake by the Developers.
